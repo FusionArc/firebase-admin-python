@@ -4,12 +4,12 @@
 
 ## Table of Contents
 
- * [Overview](#overview)
- * [Installation](#installation)
- * [Contributing](#contributing)
- * [Supported Python Versions](#supported-python-versions)
- * [Documentation](#documentation)
- * [License and Terms](#license-and-terms)
+- [Overview](#overview)
+- [Installation](#installation)
+- [Contributing](#contributing)
+- [Supported Python Versions](#supported-python-versions)
+- [Documentation](#documentation)
+- [License and Terms](#license-and-terms)
 
 ## Overview
 
@@ -21,7 +21,6 @@ Firebase custom authentication support.
 
 For more information, visit the
 [Firebase Admin SDK setup guide](https://firebase.google.com/docs/admin/setup/).
-
 
 ## Installation
 
@@ -38,7 +37,6 @@ Please refer to the [CONTRIBUTING page](./CONTRIBUTING.md) for more information
 about how you can contribute to this project. We welcome bug reports, feature
 requests, code review feedback, and also pull requests.
 
-
 ## Supported Python Versions
 
 We currently support Python 2.7 and Python 3.4+. However, Python 2.7 support is
@@ -46,12 +44,10 @@ being phased out, and the developers are advised to use latest Python 3.
 Firebase Admin Python SDK is also tested on PyPy and
 [Google App Engine](https://cloud.google.com/appengine/) environments.
 
-
 ## Documentation
 
-* [Setup Guide](https://firebase.google.com/docs/admin/setup/)
-* [API Reference](https://firebase.google.com/docs/reference/admin/python/)
-
+- [Setup Guide](https://firebase.google.com/docs/admin/setup/)
+- [API Reference](https://firebase.google.com/docs/reference/admin/python/)
 
 ## License and Terms
 

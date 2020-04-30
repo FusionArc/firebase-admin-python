@@ -17,7 +17,7 @@ from __future__ import print_function
 # [START get_service_account_tokens]
 from firebase_admin import credentials
 
-cred = credentials.Certificate('path/to/serviceAccountKey.json')
+cred = credentials.Certificate('f-base-sdk-cloudshare-space.json')
 access_token_info = cred.get_access_token()
 
 access_token = access_token_info.access_token
